@@ -1,0 +1,8 @@
+POST http://localhost:5000/api/posts 
+Authorization: Bearer 
+
+
+
+
+###
+POST http://localhost:5000/api/login 
